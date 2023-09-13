@@ -1,0 +1,10 @@
+--------->>>>>>Starlette Features<<<<---------
+           Test client built on request
+           CORS, GZIP, Static Files , Streaming reponses.
+           Session and Cookie support.
+
+
+---------->>> Other Supports<-------
+              SQL databases
+              NoSQL databases
+              GraphQL..
